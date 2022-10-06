@@ -12,7 +12,7 @@
 <img alt="Discord" src="https://img.shields.io/discord/859390913221361675?label=Discord&style=for-the-badge"></br>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrrjbyHC6KZqtO-M5C1PhSQ)
 </div>
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![zcmg GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmg&show_icons=true&theme=dracula&count_private=true)
 
