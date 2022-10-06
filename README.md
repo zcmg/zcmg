@@ -1,4 +1,4 @@
-- 👋 Olá sou zcmg desenvolvedor de ESX fivem
+- 👋 Olá sou zcmg desenvolvedor de ESX Fivem
 - 👑 Criação de Base Fivem 
 - 🛠 Criação Server de RP 
 - 👕 Roupas personalizado RP
@@ -8,8 +8,7 @@
 ## ESX Developer Portugal 🖐️
 
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIomGRINXBCXmwbxWGa7xw)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/expert.fps)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrrjbyHC6KZqtO-M5C1PhSQ)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![zcmg GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmg&show_icons=true&theme=dracula&count_private=true)
