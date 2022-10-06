@@ -7,7 +7,6 @@
 -->
 ## ESX Developer Portugal 🖐️
 
-
 <div style="display: inline_block">
 <img alt="Discord" src="https://img.shields.io/discord/859390913221361675?label=Discord&style=for-the-badge">
   
