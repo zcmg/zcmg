@@ -16,9 +16,12 @@
 
 ![zcmg GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmg&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Linguaguens usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 <div style="display: inline_block">
   <img align="center" alt="css" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
