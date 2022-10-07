@@ -1,4 +1,4 @@
-- 👋 Olá sou zcmg desenvolvedor de ESX Fivem
+- 👋 Olá sou zcmg, desenvolvedor de ESX Fivem
 <!--- 👑 Criação de Base Fivem 
 - 🛠 Criação Server de RP 
 - 👕 Roupas personalizado RP
