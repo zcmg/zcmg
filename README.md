@@ -7,10 +7,10 @@ Somos uma pequena comunidade(em crescimento) de desenvolvedores de ESX FiveM pre
 
 ## ESX Developer Portugal 🖐️
 
-<div style="display: inline_block">
-<img alt="Discord" src="https://img.shields.io/discord/859390913221361675?label=Discord&style=for-the-badge">
-  
+<div style="display: inline_block"> 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrrjbyHC6KZqtO-M5C1PhSQ)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qt5WraEMxf)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/esx_developer_pt/)
 </div>
 
 
