@@ -1,10 +1,10 @@
-- 👋 Olá sou zcmg, desenvolvedor de ESX Fivem
-<!--- 👑 Criação de Base Fivem 
-- 🛠 Criação Server de RP 
-- 👕 Roupas personalizado RP
-- 🚘 Carros personalizado
-- 🚓 viaturas personalizado
--->
+## Sobre nós 📚
+
+Somos uma pequena comunidade(em crescimento) de desenvolvedores de ESX FiveM pretendemos com as nossas lives ajudar quem tiver duvidas, mostrar o desenvolvimento de scripts e motivar mais pessoas a desenvolver na framework ESX
+
+## Nossa Comunidade🔗
+
+
 ## ESX Developer Portugal 🖐️
 
 <div style="display: inline_block">
@@ -18,15 +18,16 @@
 
 
 
-## Linguaguens usadas
+## Linguagens usadas 📟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcmg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 <div style="display: inline_block">
-  <img align="center" alt="css" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-2C2D72?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-2C2D72?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-2C2D72?style=for-the-badge&logo=JavaScript&logoColor=red" />
 </div><br/>
 
 
