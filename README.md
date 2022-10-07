@@ -2,16 +2,19 @@
 
 Somos uma pequena comunidade(em crescimento) de desenvolvedores de ESX FiveM pretendemos com as nossas lives ajudar quem tiver duvidas, mostrar o desenvolvimento de scripts e motivar mais pessoas a desenvolver na framework ESX
 
-## Nossa Comunidade🔗
+## Nossa Comunidade 🔗
 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrrjbyHC6KZqtO-M5C1PhSQ)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/esx_developer_pt/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qt5WraEMxf)
+
+## Doações 💸
+
+Caso pretendas ajudar a nossa comunid
+
+[![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/esxdeveloperpt)
 
 ## ESX Developer Portugal 🖐️
-
-<div style="display: inline_block"> 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrrjbyHC6KZqtO-M5C1PhSQ)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qt5WraEMxf)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/esx_developer_pt/)
-</div>
 
 
 ![zcmg GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmg&show_icons=true&theme=dracula&count_private=true)
