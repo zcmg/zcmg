@@ -10,7 +10,7 @@ Somos uma pequena comunidade(em crescimento) de desenvolvedores de ESX FiveM pre
 
 ## Doações 💸
 
-Caso pretendas ajudar a nossa comunid
+Caso pretendas ajudar a manter a nossa comunidade, pode fazer atraves do no paypal clicando no botão a baixo.
 
 [![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/esxdeveloperpt)
 
