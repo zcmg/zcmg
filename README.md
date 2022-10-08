@@ -16,9 +16,10 @@ Caso pretendas ajudar a manter a nossa comunidade, pode fazer atraves do no payp
 
 ## ESX Developer Portugal 🖐️
 
+[![DiscordBanner4](https://discordapp.com/api/guilds/859390913221361675/widget.png?style=banner4)](https://discord.gg/Qt5WraEMxf)
+
 
 ![zcmg GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmg&show_icons=true&theme=dracula&count_private=true)
-
 
 
 ## Linguagens usadas 📟
