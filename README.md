@@ -21,6 +21,10 @@ Caso pretendas ajudar a manter a nossa comunidade, pode fazer atraves do no payp
 
 ![zcmg GitHub stats](https://github-readme-stats.vercel.app/api?username=zcmg&show_icons=true&theme=dracula&count_private=true)
 
+## Estatisticas
+
+![](https://komarev.com/ghpvc/?username=zcmg&color=ff0000&style=for-the-badge&label=Visitas)
+
 
 ## Linguagens usadas 📟
 
