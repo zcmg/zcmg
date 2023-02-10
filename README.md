@@ -1,12 +1,17 @@
-## Sobre nós 📚
+## About US/Sobre nós 📚
 
+[EN]
+We are a small (growing) community of ESX FiveM developers, with our lives we intend to help anyone who has doubts, show script development and motivate more people to develop in the ESX framework
+
+[PT]
 Somos uma pequena comunidade(em crescimento) de desenvolvedores de ESX FiveM pretendemos com as nossas lives ajudar quem tiver duvidas, mostrar o desenvolvimento de scripts e motivar mais pessoas a desenvolver na framework ESX
 
-## Nossa Comunidade 🔗
+## Our Community/Nossa Comunidade 🔗
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrrjbyHC6KZqtO-M5C1PhSQ)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/esx_developer_pt/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qt5WraEMxf)
+[![Tebex](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://esxdeveloperportugal.tebex.io)
 
 ## Doações 💸
 
